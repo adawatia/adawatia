@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Danjo and Flutter...**
 
-- 💬 Ask me about **C++,Flutter, Python, Also about your weak WIFI Network**
+- 💬 Ask me about **C++, Python**
 
 - 📫 How to reach me **devsarrawatia@gmail.com**
 
