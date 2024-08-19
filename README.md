@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently gaining knowledge Flask and Flutter<br><br>💬 Ask me about C++,Python and Web<br><br>📫 How to reach me devsarrawatia@gmail.com
+<br>💬 Ask me about C++,Python and Web<br><br>📫 How to reach me devsarrawatia@gmail.com
 
 
 ## 🌐 Socials:
