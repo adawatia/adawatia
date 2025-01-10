@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/devsansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devsansh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adawatia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adawatia" height="30" width="40" /></a>
+<a href="https://twitter.com/devsansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/twitter/twitter-original.svg" alt="devsansh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adawatia" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" alt="adawatia" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/adawatia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adawatia" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adawatia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adawatia" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/devsansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devsansh" height="30" width="40" /></a>
@@ -68,7 +68,7 @@
     <h4 style="font-size: 1.2em;">Operating Systems</h4>
     <p>
         <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original.svg" alt="linux" width="40" height="40"/> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows11/windows11-original.svg" alt="windows 11" width="40" height="40"/> 
         </a>
         <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original.svg" alt="linux" width="40" height="40"/> 
