@@ -2,7 +2,7 @@
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="Banner GIF" />
 </p>
 
-<h1 align="center">Hey there! 👋 I'm Devansh Sharma.</h1>
+<h1 align="center">Hey there! 👋 I'm Devansh Sharma Adawatia.</h1>
 <h3 align="center">A passionate Software Developer 💻 and an avid Book Reader 📚 & Reviewer ✍️. Coming to you from the heart of India 🇮🇳!</h3>
 
 ---
