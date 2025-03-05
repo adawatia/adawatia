@@ -79,9 +79,6 @@
 <div style="display: flex; justify-content: space-evenly; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; border-radius: 10px;">
     <h4 style="font-size: 1.2em;">Web Frameworks</h4>
     <p>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-        </a> 
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
         </a> 
