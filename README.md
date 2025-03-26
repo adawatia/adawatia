@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey there! 👋 I'm Devansh Sharma.</h1>
-<h3 align="center">A passionate Software Developer 💻 and an avid Book Reader 📚 & Reviewer ✍️. Coming to you from the heart of India 🇮🇳!</h3>
+<h3 align="center">A passionate Software Developer 💻 and an avid Book Reader.</h3>
 
 ---
 
