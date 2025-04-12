@@ -11,7 +11,8 @@
 <p align="left">
   <a href="https://twitter.com/devsansh" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" />
-  </a>
+  </a> 
+<!--   Devansh sharma -->
   <a href="https://linkedin.com/in/adawatia" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
