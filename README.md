@@ -21,11 +21,11 @@
 <hr />
 <h3 align="left">💼 About Me</h3>
 
-🎓 Currently pursuing Bachelor of Engineering in Computer Science at Chandigarh University
-🔬 Research Intern Alumni at IIT Guwahati (MARS Lab) - AI hardware-software co-design
-💡 Worked on AI accelerators and DNN inference optimization with 23% latency reduction
-🤖 ML Engineer Intern at Growth Purple - Built RAG-based PDF chatbot with 90% accuracy
-📝 Published IEEE research paper on cloud-based telemedicine platforms
+- 🎓 Currently pursuing Bachelor of Engineering in Computer Science at Chandigarh University
+- 🔬 Research Intern Alumni at IIT Guwahati (MARS Lab) - AI hardware-software co-design
+- 💡 Worked on AI accelerators and DNN inference optimization with 23% latency reduction
+- 🤖 ML Engineer Intern at Growth Purple - Built RAG-based PDF chatbot with 90% accuracy
+- 📝 Published IEEE research paper on cloud-based telemedicine platforms
 
 <hr />
 <h3 align="left">🛠️ My Tech Stack</h3>
