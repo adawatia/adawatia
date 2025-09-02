@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="Banner GIF" /></p>
 <h1 align="center">Hi there! 👋 I'm <span style="color:#4CAF50;">Devansh Sharma</span></h1>
-<h3 align="center">🧠 Python Engineer | 🤖 ML Enthusiast | ⚙️ Hardware Architecture</h3>
+<h3 align="center">🧠 AI Full Stack Dev | 🤖 ML Enthusiast | ⚙️ Hardware Architecture</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adawatia&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/adawatia?label=Followers&style=social" alt="followers" />
