@@ -105,7 +105,8 @@ const devansh = {
 <summary>🌐 <b>Web Development</b></summary>
 <br>
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -185,30 +186,34 @@ Open-source cybersecurity platform leveraging Big Data technologies. Built with 
 
 ---
 
-## 📊 GitHub Analytics
+### 🎯 3D Contribution Calendar
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adawatia&bg_color=0d1117&color=00f5ff&line=ff6b9d&point=00f5ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### 🔥 Streak Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adawatia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adawatia&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adawatia&theme=radical" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adawatia&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adawatia&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adawatia&theme=radical" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adawatia&theme=tokyo-night&custom_title=Contribution%20Graph&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adawatia&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adawatia&theme=radical&utcOffset=5.5" />
 </div>
 
----
-
-<div align="center">
+</div>
 
 ### 💫 "Bridging the gap between AI research and real-world applications"
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
