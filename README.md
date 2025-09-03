@@ -17,18 +17,21 @@
 
 ```typescript
 const devansh = {
-    title: "AI Full Stack Developer & ML Engineer",
-    location: "India 🇮🇳",
-    education: "B.E. Computer Science | Chandigarh University",
-    currentFocus: "AI Hardware-Software Co-design",
-    researchExperience: "IIT Guwahati (MARS Lab)",
+    title: "AI Full Stack Developer",
+    location: "Ludhiana, Punjab, India 🇮🇳",
+    education: "B.E. Computer Science | Chandigarh University (CGPA: 7.79)",
+    currentFocus: "Full Stack Web Devlopment",
+    researchExperience: "IIT Guwahati (MARS Lab) - DNN Optimization",
     achievements: [
-        "🎯 Reduced DNN inference latency by 23%",
-        "🛡️ Built real-time cybersecurity response system",
-        "📚 Published 2 research papers",
-        "☁️ AWS Academy Cloud Architecting Graduate"
+        "🎯 Reduced DNN inference latency by 23% on NoC architectures",
+        "🛡️ Built real-time cybersecurity incident response system",
+        "📚 Published 2 research papers (IEEE Xplore & IJISRT)",
+        "☁️ AWS Academy Cloud Architecting Graduate",
+        "🤖 ROBO AI Diamond Certified",
+        "🎓 International AI Summer School Graduate (UUST Russia)"
     ],
-    motto: "Transforming data into intelligence 🧠✨"
+    currentProjects: ["DeoAI - Automated Video Pipeline", "Advanced GenAI Applications"],
+    motto: "Bridging the gap between AI research and real-world applications 🧠✨"
 };
 ```
 
