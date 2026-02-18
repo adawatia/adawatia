@@ -41,7 +41,3 @@
 - **🎓 Education**: B.E. Computer Science from **Chandigarh University**.
 
 <br/>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=adawatia&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=999" alt="Devansh's Github Stats" />
-</div>
